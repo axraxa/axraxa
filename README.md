@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 ![Axraxa's GitHub stats](https://github-readme-stats.vercel.app/api?username=axraxa&show_icons=true&theme=blue-green)
 
 <details>
-  <summary><h3>Axraxa's Coding Journey</h3></summary>
-
+  <summary><h3>My Coding Journey</h3></summary>
+  <p>I've been in the Tech space for a long time,but there was no interest in coding/programming.At first I started learning of coding at the age of 14 but i lost joy because of wrong learning methods and lack of self awareness at the given time.After that I didn't even give a thought about learning to code,reason is that I looked at it wrong way... for me there was no challenge in coding and simply , without research decided that it was not fit for me.At the age of 18(when i took major in Economics) , after seeing situation of current eduaction system let's say I was not so eager to be Top Student :) and decided to try luck in programming again(check if it was fit for me),as it turned out I pretty much found everything what I wanted from profession: 1)Ability to make something from the scratch.2)Ability to work from any place,if I am traveling.3)Ability to make something that will help others and mark it's worth on world.Now I have knowledge of Front-End and started Learning Back-End.Thanks for Reading <3
+  </p>
 </details>
