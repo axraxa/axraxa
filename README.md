@@ -1,6 +1,7 @@
 
  I'm Georgian Web Developer(Front-End,yet) and Economics undergraduate.All of my projects are built from scratch by me,myself and I.
 Currently learning Laravel.
+
 <img src="https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e4736vfxqmt56roc2vef288rolzgjsuvuy9t3euwrhz&rid=giphy.gif&ct=g" style="margin:auto;" />
 
 
