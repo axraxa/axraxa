@@ -1,7 +1,12 @@
-I'm Georgian Web Developer(Front-End,yet) and Economics undergraduate.All of my projects are built from scratch by me,myself and I.
+<div style="width:50%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;">
+  <p>
+    I'm Georgian Web Developer(Front-End,yet) and Economics undergraduate.All of my projects are built from scratch by me,myself and I.
 Currently learning Laravel.
-
+  </p>
+  
 <img src="https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e4736vfxqmt56roc2vef288rolzgjsuvuy9t3euwrhz&rid=giphy.gif&ct=g" style="margin:auto;" />
+</div>
+
 
 <!--
 **axraxa/axraxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
