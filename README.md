@@ -2,6 +2,8 @@
 #
 I'm Georgian Web Developer(Front-End,yet) and Economics undergraduate.All of my projects are built from scratch by me,myself and I.
 
+🌱 I’m currently learning Laravel.
+
 <!--
 **axraxa/axraxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
