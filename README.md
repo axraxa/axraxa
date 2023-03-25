@@ -1,7 +1,5 @@
 ### Axraxa
-
 #
-
 I'm Georgian Web Developer(Front-End,yet) and Economics undergraduate.All of my projects are built from scratch by me,myself and I.
 
 <!--
