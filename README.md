@@ -24,19 +24,26 @@ Here are some ideas to get you started:
 -->
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/10103/10103635.png" width="20px" /> Languages and Tools
+### <img src="https://cdn-icons-png.flaticon.com/512/10103/10103635.png" width="20px" /> Languages and Tools(Solid Knowledge)
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <br/>
 <br/>
 
-### <img src="https://cdn-icons-png.flaticon.com/512/10190/10190460.png" width="20px" /> Languages and Tools I am Currently Learning
+### <img src="https://cdn-icons-png.flaticon.com/512/10190/10190460.png" width="20px" /> Languages and Tools(Basic Knowledge)
+<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+
+<br/>
+<br/>
+
+### <img src="https://cdn-icons-png.flaticon.com/512/10103/10103635.png" width="20px" /> Languages and Tools(Currently Learning)
+<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
 
 <br/>
 <br/>
