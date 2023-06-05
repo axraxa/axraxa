@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-### <img src="https://cdn-icons-png.flaticon.com/512/10103/10103635.png" width="20px" /> Languages and Tools(Currently Learning)
-
+<!-- ### <img src="https://cdn-icons-png.flaticon.com/512/10103/10103635.png" width="20px" /> Languages and Tools(Currently Learning)
+ -->
 
 <br/>
 <br/>
