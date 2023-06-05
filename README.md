@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axraxa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![](https://github-readme-stats.vercel.app/api?username=axraxa&show_icons=true&theme=blue)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=axraxa&show_icons=true&theme=blue-green) -->
 <br/>
 ![](https://komarev.com/ghpvc/?username=axraxa)
 
