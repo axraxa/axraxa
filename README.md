@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=axraxa&show_icons=true&theme=blue-green) -->
 <br/>
-![](https://komarev.com/ghpvc/?username=axraxa)
+<!-- ![](https://komarev.com/ghpvc/?username=axraxa) -->
 
 <details>
   <summary><h3>My Coding Journey</h3></summary>
