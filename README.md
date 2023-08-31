@@ -2,7 +2,7 @@
 <p align="center" style="text-align:center;"> I'm Georgian Web Developer(Front-End,yet) and Economics undergraduate(Learning in ATSU(Akaki Tsereteli State University)).All of my projects are built from scratch by me,myself and I.</p>
 
 <p align="center" style="text-align:center;">
-  <img src="http://tumblr.com/](https://media1.giphy.com/media/1IynFUeOif20g/giphy.gif?cid=ecf05e47rvhfkl41kax0rml64keo7x3zrcf5ue7x3v4cw492&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<iframe src="https://giphy.com/embed/1IynFUeOif20g" width="480" height="361" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trigun-vash-the-stampede-1IynFUeOif20g">via GIPHY</a></p>
 </p>
 
 
