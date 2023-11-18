@@ -1,5 +1,5 @@
 
-<p align="center" style="text-align:center;"> I'm Georgian Web Developer(Front-End,yet) and Economics undergraduate(Learning in ATSU(Akaki Tsereteli State University)).All of my projects are built from scratch by me,myself and I.</p>
+<p align="center" style="text-align:center;"> I'm Georgian Web Developer(Full-Stack) and Economics undergraduate(Learning in ATSU(Akaki Tsereteli State University)).All of my projects are built from scratch by me,myself and I.</p>
 
 <p align="center" style="text-align:center;">
  <image  src="https://media.giphy.com/media/1IynFUeOif20g/giphy.gif"/>
